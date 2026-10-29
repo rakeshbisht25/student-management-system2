@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\student managment system2\student managment system2\bin\Debug\student managment system2.exe.config
+C:\Users\DELL\source\repos\student managment system2\student managment system2\bin\Debug\student managment system2.exe
+C:\Users\DELL\source\repos\student managment system2\student managment system2\bin\Debug\student managment system2.pdb
+C:\Users\DELL\source\repos\student managment system2\student managment system2\obj\Debug\student managment system2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\student managment system2\student managment system2\obj\Debug\student managment system2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\student managment system2\student managment system2\obj\Debug\student managment system2.exe
+C:\Users\DELL\source\repos\student managment system2\student managment system2\obj\Debug\student managment system2.pdb
+C:\Users\DELL\source\repos\student managment system2\student managment system2\obj\Debug\student managment system2.exe.config
